@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "417d04c77f08b70d",
+    "type": "split",
+    "children": [
+      {
+        "id": "42c719ba20566c7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "532a6841e6510cab",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f288230e119880e",
+    "type": "split",
+    "children": [
+      {
+        "id": "40212519317c2487",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "def0e66ac1a688bd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bf2d035aa3a06153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5024c82c8d69e17c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73946e110de06bc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "020386fd1f79f1f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e249bc3f418cb813",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6284b59cbf49281c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5627ddba0c14ce29",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7b13753b841a8b76",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "532a6841e6510cab",
+  "lastOpenFiles": [
+    "前端/A_Html/HTML—视频.md",
+    "前端/05_Nodejs",
+    "前端/04_ES6",
+    "前端/03_CSS/CSS总结div中的内容垂直居中.md",
+    "前端/03_CSS/CSS 选择器.md",
+    "前端/03_CSS/49个容易遗忘的CSS样式清单整理.md",
+    "前端/03_CSS",
+    "前端/02_Javascript/js 处理dom/images/windows_height.png",
+    "前端/02_Javascript/js 处理dom/images",
+    "前端/02_Javascript/js 处理dom/js 获取屏幕浏览器和页面的高度和宽度.md",
+    "前端/02_Javascript/图解事件中screenX、clientX、pageX 和 offsetX、x、layoutX.md",
+    "前端/02_Javascript/JS获取DOM结构.md",
+    "前端/02_Javascript/var、const 和 let.md",
+    "前端/02_Javascript/JS的异步解决方案.md",
+    "前端/02_Javascript/JS 模块化.md",
+    "前端/02_Javascript/js 处理dom",
+    "前端/02_Javascript/async+await.md",
+    "前端/02_Javascript/AJAX.md",
+    "前端/02_Javascript",
+    "前端/01_Html/锚点的使用 .md",
+    "前端/01_Html/标签dialog的使用.md",
+    "前端/01_Html/标签-链接a的常见样式设置.md",
+    "前端/01_Html/iFrame.md",
+    "前端/01_Html/HTML—视频.md",
+    "前端/01_Html",
+    "常用软件.md",
+    "Untitled.md",
+    "999非md/Typora安装.pdf",
+    "999非md",
+    "Other/Typora安装.pdf.baiduyun.uploading.cfg",
+    "前端/A_Html/iFrame.md",
+    "前端/A_Html/锚点的使用 .md",
+    "前端/A_Html/标签-链接a的常见样式设置.md",
+    "前端/Y_Vue/Vue简介.md",
+    "java/logback.md",
+    "Git操作指南.md",
+    "README.md",
+    "未命名.canvas"
+  ]
+}
